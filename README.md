@@ -36,4 +36,4 @@ The given dataset is unbalanced
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/jai2992/your_repository.git
